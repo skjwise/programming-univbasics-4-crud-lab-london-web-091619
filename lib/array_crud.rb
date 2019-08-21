@@ -12,8 +12,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  numbers = [3, 6, 9, 12]
-  numbers.unshift(0)
+  mix = [3, "zoom", "pow", 12]
+  mix.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
